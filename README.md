@@ -69,3 +69,6 @@ Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/) pg.64 ha
 * [The Deep Learning (ch5.8.1)](http://www.deeplearningbook.org/) describes clearly the relationship between `PCA` and `SVD`
 
 ### [ex8-anomaly detection and recommendation](http://nbviewer.jupyter.org/github/icrtiou/coursera-ML/tree/master/ex8-anomaly%20detection%20and%20recommendation/)
+
+very important link 
+https://githuber.cn/people/20187665
